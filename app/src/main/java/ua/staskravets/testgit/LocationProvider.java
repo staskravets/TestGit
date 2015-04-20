@@ -7,6 +7,9 @@ package ua.staskravets.testgit;
  *
  */
 public class LocationProvider {
+    
+    private Context mContect;
+    private String mMessage;
 
     public LocationProvider(){
 

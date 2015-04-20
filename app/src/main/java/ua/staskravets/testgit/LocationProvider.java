@@ -16,8 +16,6 @@ public class LocationProvider {
     private Double summa_1;
     private Double summa_2;
 
-
-
     public LocationProvider(){
 
     }

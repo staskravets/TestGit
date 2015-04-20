@@ -12,6 +12,9 @@ public class LocationProvider {
     
     private Context mContect;
     private String mMessage;
+    
+    Double summa_1;
+    Double summa_2;
 
     public LocationProvider(){
 

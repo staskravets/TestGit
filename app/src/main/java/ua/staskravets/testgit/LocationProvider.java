@@ -1,5 +1,7 @@
 package ua.staskravets.testgit;
 
+import android.content.Context;
+
 /**
  * LocationProvider
  *
